@@ -10,7 +10,7 @@ For more information on licensing, please refer to [the project license file](./
 
 # 🔍 Changelog
 
-See [CHANGELOG](./CHANGELOG.md)
+See [CHANGELOG](./CHANGELOG.md)     
 
 # 🤝 CONTRIBUTING
 
